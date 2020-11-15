@@ -9,3 +9,5 @@ layout: home
 ### Dayananda Sagar University
 
 Repo link: [https://github.com/bharatnilam/dsu-blog](https://github.com/bharatnilam/dsu-blog)
+
+Made by [Bharat Nilam](https://github.com/bharatnilam) and [Dhruva Santosh](https://github.com/dhruvasantosh16)
