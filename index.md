@@ -2,6 +2,6 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 <img src="images/logo.jpg" width="250" height="250">
 
-## This is a title
+## Dayananda Sagar University
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
