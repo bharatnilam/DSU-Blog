@@ -4,3 +4,8 @@
 
 layout: home
 ---
+<img src="images/logo.jpg" width="250" height="250">
+
+### Dayananda Sagar University
+
+Repo link: https://github.com/bharatnilam/dsu-blog
