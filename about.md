@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+This blog site was made by 
+Bharat Nilam (ENG17CS0050) and
+Dhruva Santosh (ENG17CS0070)
