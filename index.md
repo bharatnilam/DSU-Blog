@@ -1,7 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+VII Semester Web Programming Lab Mini Project
 
 <img src="images/logo.jpg" width="250" height="250">
 
-## This is a title
+## Dayananda Sagar University
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Link to this blog site's GitHub Repo:
+
+[Bharat Nilam's repo](https://github.com/bharatnilam/dsublog.github.io)
+[Dhruva Santosh's repo]()
