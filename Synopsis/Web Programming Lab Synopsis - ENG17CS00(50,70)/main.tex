@@ -1,0 +1,132 @@
+\documentclass[a4paper,14pt]{extarticle}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{ragged2e}
+\usepackage{array}
+\usepackage[hyphens]{url}
+\graphicspath{ {images/} }
+\date{}
+
+\begin{document}
+
+% title page
+\begin{titlepage}
+    \begin{center}
+        
+        \Large
+        \textbf{Dayananda Sagar University \\}
+        
+        \vspace{1cm}
+        \includegraphics[width=3cm]{dsu logo cropped.jpg}
+        
+        \vspace{1cm}
+        \Large
+        \textbf{Web Programming Lab Synopsis\\}
+        \large
+        \textit{on \\}
+        \Large
+        \textbf{Blogging Website \\}
+        \vfill
+        
+        \textbf{Bachelor of Technology \\}
+        \textit{in \\}
+        \textbf{Computer Science \& Engineering \\}
+        \vspace{1cm}
+        \textit{Submitted by: \\}
+        \vspace{0.5cm}
+        \begin{tabular}{c c}
+            Bharat Nilam & (ENG17CS0050) \\
+            Dhruva Santosh & (ENG17CS0070)
+        \end{tabular}
+        \vspace{1cm}
+        
+        \large
+        VII Semester \\
+        (Course Code: 16CS471)
+       \vfill
+        
+        \textit{Submitted to: \\}
+        \textbf{Prof. Gousia Thahniyath}
+        
+    \end{center}
+\end{titlepage}
+
+\pagebreak
+
+% table of contents
+\tableofcontents
+
+\pagebreak
+
+\section{Introduction}
+A blog (a shortened version of “weblog”) is an online journal or informational website displaying information in reverse chronological order, with the latest posts appearing first, at the top. It is a platform where a writer or a group of writers share their views on an individual subject.\\\\
+In 1994, when blogs began, a blog was more of a personal diary that people shared online. In this online journal, you could talk about your daily life or share about things that you were doing. Then, people saw an opportunity to communicate information in a new way online.
+
+\section{Problem Definition}
+To design a blogging website that can be deployed to the internet to be more of an informational website or it can be kept private to be a personal journal.
+
+\section{Operational Definition}
+\begin{itemize}
+    \item The website contains the posts in reverse chronological order.
+    \item The user needs to type the post in a Markdown file according to a set syntax(Format: “year-month-day-name.md”, where year is a four-digit number, and month and day are two-digit numbers. “Name” can be anything you want, that will help you remember what this post was about. The “md” extension is for markdown documents) which is uploaded onto the GitHub repository dedicated to the blog website.
+    \item The posts (Markdown files) are stored in a folder called Posts on the repository.
+    \item The website refreshes as more posts are uploaded or whenever the repository is edited.
+\end{itemize}
+
+\pagebreak
+
+\section{Scope of the Project}
+Promote blogging through an easy to make and easy to deploy blogging website using Git and Jekyll.
+
+\section{Existing System}
+Existing systems consist of multiple themes and customizable and dynamic web pages and can also include different widgets that can be integrated with the web page.
+
+\section{Proposed Solution}
+The Proposed project is to promote blogging as a form of catharsis which can improve mental health, it can be used as a journal which can help to keep track of activities and can also be useful/informational to the people who read the posts.
+
+\section{Software and Hardware Requirements}
+\begin{itemize}
+    \item Software Requirements:
+    \begin{itemize}
+        \item OS: OS X, Windows, Linux
+        \item Language: Ruby, HTML, CSS, JS
+        \item Browser: Chrome or Firefox
+    \end{itemize}
+    \item Hardware Requirements:
+    \begin{itemize}
+        \item Processor: Core 2 Duo or Better
+        \item RAM: 1 GB
+        \item Storage: 100MB or above
+    \end{itemize}
+\end{itemize}
+
+\pagebreak
+
+\addcontentsline{toc}{section}{References}
+\begin{thebibliography}{5}
+\bibitem{jekyll}
+Jekyll Documentation: Blog -aware, static site generator written in Ruby.
+\\\texttt{https://jekyllrb.com/docs/}
+
+\bibitem{css}
+CSS (Cascading Style Sheets): CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
+\\\texttt{https://devdocs.io/css/}
+
+\bibitem{html}
+HTML: Markup language for documents designed to be displayed in a web browser.
+\\\texttt{https://devdocs.io/html/}
+
+\bibitem{githubpages}
+GitHub Pages: Website hosting from GitHub repository.
+\\\texttt{https://docs.github.com/en/free-pro-team@latest/github\\/working-with-github-pages}
+
+\bibitem{git}
+Git: Git is a distributed version-control system for tracking changes in source code during software development.
+\\\texttt{https://git-scm.com/doc}
+
+\end{thebibliography}
+
+\end{document}
+
+
